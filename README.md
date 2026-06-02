@@ -29,10 +29,10 @@ A Python implementation of the **Lempel–Ziv–Welch (LZW)** lossless compressi
 ├── text_file_compression_example.py
 ├── text_file_decompression_example.py
 ├── sample.txt                      # Sample text file for testing
-├── images/
-│   ├── Flow Chart.jpg
-│   └── Class Diagram.jpg
-└── flowchart.jpg
+└── docs/
+    ├── Flow Chart.jpg              # LZW algorithm flow chart
+    ├── Class Diagram.jpg           # UML class diagram
+    └── flowchart.jpg               # Compression pipeline flowchart
 ```
 
 ---
